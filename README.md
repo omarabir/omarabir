@@ -1,48 +1,43 @@
-## Hey, I’m Abir 👋  
-MERN stack developer. I build things for the web — clean, fast, and actually useful.  
-If something feels messy, I fix it. If something feels slow, I rewrite it.
+# ⭐ Abir — MERN Stack Developer
 
----
-
-### 🚀 What I Work With
-**Frontend:** React, Next.js, Tailwind, ShadCN  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB, Mongoose  
-**Auth & Tools:** JWT, Firebase Auth, Stripe, REST APIs  
-**Others:** Redux Toolkit, Zustand, Axios, Cloudinary, Socket.io
-
----
-
-### 🧩 What I’ve Been Building
-- Full-stack eCommerce projects with secure auth & dynamic payments  
-- Admin dashboards with real-time data & role-based access  
-- Reusable UI components that don’t make you cry  
-- Backend systems that run quietly without drama
-
----
-
-### 📌 Current Focus
-Making my projects cleaner, more scalable, and honestly—more fun to build.  
-Also working on sharpening my design sense so my UIs don’t look like 2015.
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abir&show_icons=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir&layout=compact" height="160" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&width=650&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Clean+Code+%7C+Scalable+Apps;Always+Learning+%26+Building" />
 </p>
 
----
-
-### 🔗 Find Me Here
-- **Facebook:** your-link  
-- **Portfolio:** your-link  
-- **Email:** your-email
+## 🚀 About Me  
+Hey, I'm **Abir**. I'm a MERN Stack Developer who enjoys building full-stack applications from scratch and shaping ideas into real products.  
+I like to break things down, understand how they work, and rebuild them better.  
+Outside coding, I enjoy design, problem-solving, and creating anything that makes life easier for people.
 
 ---
 
-### ☕ Little Things About Me
-- I like code that explains itself  
-- I keep APIs simple  
-- And yeah—dark mode always
+## 🧠 Skills & Tools
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) ! |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+
+---
+
+## 📊 GitHub Stats
+
+| Top Languages | GitHub Stats | Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true) |
+
+> **Replace `omarabir` with your GitHub username**
+
+---
+
+## 📬 Contact  
+Feel free to reach out or connect:
+
+- **Email**: abiromor506@gmail.com  
+
+
+---
+
