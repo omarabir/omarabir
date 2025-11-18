@@ -53,13 +53,6 @@ Learning is part of my daily routine, and I love exploring new technologies that
 <a href="mailto:abiromor506@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 
----
-
-## 📍 Location  
-**Chattogram, Bangladesh**
-
-## ✉️ Email  
-**abiromor506@gmail.com**
 
 ---
 
@@ -70,9 +63,6 @@ Learning is part of my daily routine, and I love exploring new technologies that
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabir&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarabir&theme=transparent&hide_border=true" />
-</p>
 
 ---
 
