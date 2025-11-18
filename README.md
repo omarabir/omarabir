@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+  <img src="https://i.ibb.co.com/zHG2GTw9/Omar-Abir.jpg" alt="banner" />
 </div>
 
 # 👋 Hi, I'm Abir  
