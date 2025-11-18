@@ -36,12 +36,12 @@ Learning is part of my daily routine, and I love exploring new technologies that
 
 ### **Database**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ### **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
 </p>
 
 ---
