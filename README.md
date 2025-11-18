@@ -29,7 +29,7 @@ Outside coding, I enjoy design, problem-solving, and creating anything that make
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true) |
 
-> **Replace `omarabir` with your GitHub username**
+> **`omarabir`**
 
 ---
 
