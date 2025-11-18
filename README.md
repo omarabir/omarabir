@@ -1,7 +1,7 @@
 # ⭐ Abir — MERN Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&width=650&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Clean+Code+%7C+Scalable+Apps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&width=650&lines=Hi,+I+am+Abir;MERN+Stack+Developer;Always+Learning+%26+Building" />
 </p>
 
 ## 🚀 About Me  
