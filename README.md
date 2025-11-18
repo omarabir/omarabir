@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Abir  
 ### 🚀 MERN Stack Developer
 
-I'm a full-stack JavaScript developer who enjoys turning ideas into real, functional products.  
+I'm a MERN Stack Developer who enjoys turning ideas into real, functional products.  
 I like clean code, scalable architecture, and creating things that make life easier for others.
 
 ---
