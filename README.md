@@ -1,43 +1,79 @@
-# ⭐ Abir — MERN Stack Developer
+<div align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&width=650&lines=Hi,+I+am+Abir;MERN+Stack+Developer;Always+Learning+%26+Building" />
-</p>
+# 👋 Hi, I'm Abir  
+### 🚀 MERN Stack Developer
 
-## 🚀 About Me  
-Hey, I'm **Abir**. I'm a MERN Stack Developer who enjoys building full-stack applications from scratch and shaping ideas into real products.  
-I like to break things down, understand how they work, and rebuild them better.  
-Outside coding, I enjoy design, problem-solving, and creating anything that makes life easier for people.
+I'm a full-stack JavaScript developer who enjoys turning ideas into real, functional products.  
+I like clean code, scalable architecture, and creating things that make life easier for others.
 
 ---
 
-## 🧠 Skills & Tools
+## ✨ About Me
+I'm someone who enjoys building, breaking, and rebuilding things until they make sense.  
+Learning is part of my daily routine, and I love exploring new technologies that improve the way I build.
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) ! |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)  |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens)  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+### 🔥 What I’m doing right now:
+- 🌱 Exploring **Next.js** more deeply  
+- 🧪 Building a **tourism/travel web application**  
+- 🔧 Improving backend architecture & security  
+- 🎨 Learning better UI/UX patterns  
+
+---
+
+## 🛠️ Skills
+
+### **Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux,vue" />
+</p>
+
+### **Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+</p>
+
+### **Database**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### **Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p>
+<a href="https://www.facebook.com/umarrrrrr1/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+&nbsp;
+<a href="mailto:abiromor506@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
+---
+
+## 📍 Location  
+**Chattogram, Bangladesh**
+
+## ✉️ Email  
+**abiromor506@gmail.com**
 
 ---
 
 ## 📊 GitHub Stats
 
-| Top Languages | GitHub Stats | Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true) |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omarabir&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarabir&layout=compact&theme=transparent&hide_border=true"/>
+</p>
 
-> **`omarabir`**
-
----
-
-## 📬 Contact  
-Feel free to reach out or connect:
-
-- **Email**: abiromor506@gmail.com  
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omarabir&theme=transparent&hide_border=true" />
+</p>
 
 ---
+
 
