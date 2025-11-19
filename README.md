@@ -46,11 +46,15 @@ Learning is part of my daily routine, and I love exploring new technologies that
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Social Links
 <p>
-<a href="https://www.facebook.com/umarrrrrr1/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook"/></a>
-&nbsp;
-<a href="mailto:abiromor506@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://www.facebook.com/umarrrrrr1/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:abiromor506@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
 </p>
 
 
