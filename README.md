@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/zHG2GTw9/Omar-Abir.jpg" alt="banner" />
+  <img src="https://i.ibb.co.com/C3gZqqq6/Omar-Abir-1.jpg" alt="banner" />
 </div>
 
 # 👋 Hi, I'm Abir  
