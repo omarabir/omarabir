@@ -41,7 +41,7 @@ Learning is part of my daily routine, and I love exploring new technologies that
 
 ### **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma,photoshop,ai" />
 </p>
 
 ---
