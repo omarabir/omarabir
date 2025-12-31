@@ -46,6 +46,11 @@ Learning is part of my daily routine, and I love exploring new technologies that
 
 ---
 
+
+
+
+
+
 ## 🌐 Social Links
 <p>
   <a href="https://www.facebook.com/umarrrrrr1/" target="_blank">
@@ -60,5 +65,6 @@ Learning is part of my daily routine, and I love exploring new technologies that
 
 ---
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fomarabir)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fomarabir" alt="GitHub Streak" /></a>
 
